@@ -30,7 +30,7 @@ python Qros.py
 ```
 
 ## License
-This project is licensed under the GNU General Public License v3. More details can be found in the `LICENSE` file.
+This project is licensed under the GNU Affero License v3. More details can be found in the `LICENSE` file.
 
 ## Areas for Improvement
 - **Testing**: Additional testing is needed to ensure stability and performance.
