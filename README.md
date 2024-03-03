@@ -1,4 +1,3 @@
-# QSys Design
 ![qsd](https://github.com/LoQiseaking69/QSys-Design/blob/main/QSD.PNG)
 
 ## Introduction
