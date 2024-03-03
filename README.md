@@ -15,7 +15,7 @@ To install QSys Design, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone [repository URL]
+   git clone https://github.com/LoQiseaking69/QSys-/tree/main
    ```
 2. Install the required dependencies:
    ```
