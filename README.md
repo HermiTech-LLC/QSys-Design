@@ -1,4 +1,5 @@
 # QSys Design
+![qsd](https://github.com/LoQiseaking69/QSys-Design/blob/main/QSD.PNG)
 
 ## Introduction
 QSys Design is an attempt at a sophisticated application integrating quantum computing with robotics. It provides tools for designing quantum circuits, simulating quantum computations, and managing robotics-related data. This application, named "Qros.py", is built using Python, with key dependencies including Qiskit for quantum computing, pandas for data management, and wxPython for the graphical user interface.
